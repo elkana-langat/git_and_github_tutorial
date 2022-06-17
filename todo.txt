@@ -6,3 +6,5 @@ MY TO-DO LIST
 4. Do some open source github projects
 5. Do some open source git projects
 6. Do some open source git pull requests
+7. Created a new branch test and switched to it
+8. Defend my final year project
