@@ -1,0 +1,6 @@
+MY TO-DO LIST
+
+1. Learn to use git and github
+2. Create a new repository
+3. Push my project to github
+4. Do some open source github projects
