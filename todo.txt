@@ -4,3 +4,5 @@ MY TO-DO LIST
 2. Create a new repository
 3. Push my project to github
 4. Do some open source github projects
+5. Do some open source git projects
+6. Do some open source git pull requests
